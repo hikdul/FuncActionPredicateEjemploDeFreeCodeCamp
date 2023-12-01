@@ -1,0 +1,14 @@
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\bin\Debug\net6.0\FuncActionPredicatesExample.exe
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\bin\Debug\net6.0\FuncActionPredicatesExample.deps.json
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\bin\Debug\net6.0\FuncActionPredicatesExample.runtimeconfig.json
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\bin\Debug\net6.0\FuncActionPredicatesExample.dll
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\bin\Debug\net6.0\FuncActionPredicatesExample.pdb
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\obj\Debug\net6.0\FuncActionPredicatesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\obj\Debug\net6.0\FuncActionPredicatesExample.AssemblyInfoInputs.cache
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\obj\Debug\net6.0\FuncActionPredicatesExample.AssemblyInfo.cs
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\obj\Debug\net6.0\FuncActionPredicatesExample.csproj.CoreCompileInputs.cache
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\obj\Debug\net6.0\FuncActionPredicatesExample.dll
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\obj\Debug\net6.0\refint\FuncActionPredicatesExample.dll
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\obj\Debug\net6.0\FuncActionPredicatesExample.pdb
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\obj\Debug\net6.0\FuncActionPredicatesExample.genruntimeconfig.cache
+C:\Users\hikdu\Workspace\FuncActionPredicatesExample\FuncActionPredicatesExample\obj\Debug\net6.0\ref\FuncActionPredicatesExample.dll
